@@ -1,0 +1,28 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --ext .js,.mjs,.cjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebastian-Jensen1/node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sebastian-Jensen1/node/issues"
+  },
+  "homepage": "https://github.com/Sebastian-Jensen1/node#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.22.0"
+  }
+}
